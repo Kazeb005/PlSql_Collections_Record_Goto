@@ -24,13 +24,13 @@ It is ideal for practicing **PL/SQL collections, records, associative arrays, lo
 
 ## 📁 Project Structure
 
-
+```
 /PlSql_collections_record_goto
 └──/screeshot
 │
 ├── query.sql   # Main PL/SQL script
 └── README.md
-                    
+```     
 
 
 
@@ -78,10 +78,13 @@ It is ideal for practicing **PL/SQL collections, records, associative arrays, lo
 
 PHARMACY EXPIRY ALERT SYSTEM
 Generated on: 25-NOV-2025
--------------------------------------------------------------
-CRITICAL: Aspirin 75mg | Batch: ASP01 | EXPIRED 13 days ago!
-WARNING: Amoxicillin 250mg | Batch B104 | Expires in 20 days
--------------------------------------------------------------
+
+```
+    -------------------------------------------------------------
+    CRITICAL: Aspirin 75mg | Batch: ASP01 | EXPIRED 13 days ago!
+    WARNING: Amoxicillin 250mg | Batch B104 | Expires in 20 days
+    -------------------------------------------------------------
+```
 SUMMARY: 1 batch(es) are already expired.
 ACTION: Remove from shelf immediately and log for disposal.
 ```
